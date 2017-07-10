@@ -1,0 +1,15 @@
+2017-07-03T13:19:51+08:00 INFO Home path: [/home/taoqy/go/src/github.com/qingyunha/consolebeat] Config path: [/home/taoqy/go/src/github.com/qingyunha/consolebeat] Data path: [/home/taoqy/go/src/github.com/qingyunha/consolebeat/data] Logs path: [/home/taoqy/go/src/github.com/qingyunha/consolebeat/logs]
+2017-07-03T13:19:51+08:00 INFO Setup Beat: consolebeat; Version: 5.4.4
+2017-07-03T13:19:51+08:00 INFO Max Retries set to: 3
+2017-07-03T13:19:51+08:00 INFO Activated logstash as output plugin.
+2017-07-03T13:19:51+08:00 INFO Publisher name: localhost
+2017-07-03T13:19:51+08:00 INFO Flush Interval set to: 1s
+2017-07-03T13:19:51+08:00 INFO Max Bulk Size set to: 2048
+2017-07-03T13:19:51+08:00 INFO consolebeat start running.
+2017-07-03T13:19:51+08:00 INFO consolebeat is running! Hit CTRL-C to stop it.
+2017-07-03T13:19:54+08:00 INFO Event sent
+2017-07-03T13:20:02+08:00 INFO Event sent
+2017-07-03T13:20:13+08:00 INFO Event sent
+2017-07-03T13:20:14+08:00 INFO Total non-zero values:  libbeat.logstash.call_count.PublishEvents=3 libbeat.logstash.publish.read_bytes=18 libbeat.logstash.publish.write_bytes=497 libbeat.logstash.published_and_acked_events=3 libbeat.publisher.messages_in_worker_queues=3 libbeat.publisher.published_events=3
+2017-07-03T13:20:14+08:00 INFO Uptime: 22.974128139s
+2017-07-03T13:20:14+08:00 INFO consolebeat stopped.

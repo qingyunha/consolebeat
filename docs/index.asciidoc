@@ -1,0 +1,5 @@
+= Consolebeat Docs
+
+Welcome to the Consolebeat documentation.
+
+
